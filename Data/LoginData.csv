@@ -1,0 +1,4 @@
+email,password,expectSuccess
+xirovo4283@fengnu.com,Xirovo4283@fengnu.com,true
+wrong@email.com,wrongpass,false
+notexist@test.com,anypass,false
