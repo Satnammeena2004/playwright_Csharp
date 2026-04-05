@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <Playwright>
+    <BrowserName>chromium</BrowserName>   <!-- chromium | firefox | webkit -->
+    <LaunchOptions>
+      <Headless>false</Headless>           <!-- false = you can see the browser -->
+    </LaunchOptions>
+  </Playwright>
+</RunSettings>
